@@ -9,7 +9,7 @@ git push --mirror https://github.com/your-github-username/mp3.git
 # Mirror-push to your mp3 repository. Use your github username in the URL. Change the URL if you're using bitbucket.
 cd ..
 rm -rf mp3_starter.git
-
+fuck github
 git clone https://github.com/your-github-username/mp3.git
 cd mp3
 npm install
